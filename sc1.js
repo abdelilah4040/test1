@@ -1,5 +1,5 @@
 {
-  "inbox": 2,
+  "inbox": 4,
   "spam": 3,
   "archive": 5,
   "star": 6,
